@@ -10,14 +10,11 @@ redirect_from:
 I am passionate about researching climate change adaptation and mitigation in the ocean. 
 
 ---
-layout: home
-title: Home
----
-
 <div style="width: 100%; overflow: hidden; text-align: center; margin-bottom: 2rem;">
-  <img src="assets/images/PS_mountain.jpg" alt="Home Banner" style="width: 100%; height: auto; max-height: 400px; object-fit: cover; border-radius: 8px;">
+  <img src="images/PS_mountain.jpg" alt="Home Banner" style="width: 100%; height: auto; max-height: 400px; object-fit: cover; border-radius: 8px;">
 </div>
 
+---
 
 A data-driven personal website
 ======
