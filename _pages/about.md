@@ -10,7 +10,7 @@ redirect_from:
 I am passionate about researching climate change adaptation and mitigation in the ocean. 
 
 ---
-![Editing a Markdown file for a talk](/images/PS_moutain.jpg)
+![Puget Sound](/images/PS_moutain.JPG)
 ---
 
 A data-driven personal website
